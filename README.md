@@ -1,5 +1,5 @@
 Hi!
-I don't why you are here, but glad you took an interest in me. So, I am Ahammed Sakir Nabil and am currently a PhD Student with research focused on medical AI and computer vision. My research works also include privacy and security of data through Federated Learning and what not. 
+I am glad you took an interest in me. So, I am Ahammed Sakir Nabil and am currently a PhD Student with research focused on medical AI and computer vision. My research works also include privacy and security of data through Federated Learning and what not. 
 
 Professionally, I am a Software and Systems Engineer with expertise in platform, cloud, devops and backend engineering.
 
